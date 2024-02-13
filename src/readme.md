@@ -1,4 +1,4 @@
-#CartSmart
+CartSmart
 
 Engineered a feature-rich shopping cart utilizing vanilla JavaScript, showcasing advanced frontend development skills. Applied core JavaScript concepts for dynamic
 product handling, cart functionalities, and enhanced user interaction.
