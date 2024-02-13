@@ -9,6 +9,10 @@ Checkout on netlify: "https://asiya-shopping-cart.netlify.app/"
 
 ![alt text](image.png)
 
+![alt text](image-2.png)
+
+![alt text](image-2.png)
+
 Technologies Used
 
 HTML5
