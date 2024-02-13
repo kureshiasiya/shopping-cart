@@ -16,7 +16,9 @@ Checkout on netlify: "https://asiya-shopping-cart.netlify.app/"
 Technologies Used
 
 HTML5
-CSS3
+
+CSS
+
 JavaScript
 
 THINGS TO IMPROVE
